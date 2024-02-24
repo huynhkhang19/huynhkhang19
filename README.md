@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Python, Java, Javascript, Rust, Css...**
+- 💬 Ask me about **Python,Javascript**
 
 - 📫 How to reach me **hakucongviec@gmail.com** or [**https://hakustudio.dev/**](https://hakustudio.dev/).
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cloudflare,bootstrap,bash,astro,actix,css,docker,express,flask,github,githubactions,gradle,html,java,js,sentry,mongodb,nodejs,postman,py,raspberrypi,redis,regex,rust,spring,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=js,mongodb,nodejs,py,vscode&perline=13" />
 </p>
 
 <h3 align="center">Discord</h3>

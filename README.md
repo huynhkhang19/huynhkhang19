@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python,Javascript**
 
-- 📫 How to reach me **hakucongviec@gmail.com** or [**https://hakustudio.dev/**](https://hakustudio.dev/).
+- 📫 How to reach me **support@dopamind.net** or [**https://dopamind.net**](https://dopamind.net/).
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
